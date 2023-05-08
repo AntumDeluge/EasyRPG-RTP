@@ -5,6 +5,8 @@ Creative Commons Attribution 4.0 International license.
 
 License URL: https://creativecommons.org/licenses/by/4.0/
 
+Character template by Jason Perry (CC0): https://github.com/EasyRPG/RTP/issues/25
+
 Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Authors' URL
  :- | :- | :- | :-
 **📁 `Battle`**|  
